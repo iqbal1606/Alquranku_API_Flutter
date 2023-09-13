@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "976240166126",
+    "project_id": "alqur-an-ad3bd",
+    "storage_bucket": "alqur-an-ad3bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976240166126:android:a2751a3a73a90d82bd5fff",
+        "android_client_info": {
+          "package_name": "com.example.alquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976240166126-2qnm4h9vl806r9rbml63sa7k61ahmnh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0AZrRSwNvf7wzGdHjGk20PTrL8JRUs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976240166126-2qnm4h9vl806r9rbml63sa7k61ahmnh5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "976240166126-qfb9rgaepjonm0p0sfdqvf7mdslup3b3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alquran"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
